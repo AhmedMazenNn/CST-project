@@ -8,6 +8,14 @@ This project is an eCommerce website for furniture, built with **native JavaScri
 - **Seller** - Can manage their own products.
 - **Admin** - Has full control over the platform.
 
+## Technologies Used
+- **HTML**
+- **CSS**
+- **JavaScript (JS)**
+- **jQuery (JQ)**
+- **Bootstrap**
+- **Bootstrap JS**
+
 ## Features
 
 ### General Users
@@ -39,5 +47,4 @@ This project is an eCommerce website for furniture, built with **native JavaScri
 - **Hams Abdelaziz**
 - **Mohamed Hagar**
 - **Eman Suliman**
-
 
